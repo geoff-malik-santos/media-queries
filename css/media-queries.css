@@ -44,13 +44,14 @@ li{
     margin-bottom: 10px;
 }
 
-.header-img img {
+.header-img{
     display: flex;
     justify-content: center;
-    width:100%;
+    margin: auto;
+    width: 100%;
 }
 
-@media screen and (min-width:768px) {
+@media screen and (min-width:768px)
 
  .skip{
      display: none;
