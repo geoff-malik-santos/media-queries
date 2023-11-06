@@ -7,10 +7,15 @@
 
 }
 
+
     .header-img{
         max-width:100%;
     }
-
+.header-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
